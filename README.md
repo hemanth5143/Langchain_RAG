@@ -27,7 +27,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system using La
 ```bash
 git clone https://github.com/yourusername/langchain-rag-project.git
 cd langchain-rag-project
-Here's a `README.md` file tailored to the code you initially provided:
+```
 
 2. **Install the required packages**:
 
